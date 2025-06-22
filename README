@@ -34,7 +34,7 @@ This repository contains a collection of Jupyter notebooks and Python scripts fo
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/python-ui-app.git
+   git clone https://github.com/username/python-ui-app.git
    cd python-ui-app
    ```
 
